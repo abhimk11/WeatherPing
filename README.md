@@ -12,11 +12,10 @@ Built with:
 
 ## 🚀 Features
 
-- `/weather <location>` → Get current weather for any city
+- `/weather` → Get current weather for any city
 - `/subscribe` → Subscribe to automatic weather updates every 6 hours
 - `/unsubscribe` → Stop receiving automated reports
 - `/updatelocation <new_location>` → Update your subscribed location
-- `/alerts` → Get important weather alerts (e.g. AQI > 150, heavy rain chance)
 - ✅ Shows:
   - Temperature 🌡️
   - Weather description ☁️
